@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -O3 -Wall -DLINUX -D_GNU_SOURCE -g -m64   CMakeFiles/robotarm.dir/src/arm_controller.cpp.o CMakeFiles/robotarm.dir/src/robot_arm.cpp.o  -o robotarm -ldxl_x64_cpp -lrt 
